@@ -1,0 +1,18 @@
+[
+    {
+        "city": "a",
+        "street": "a",
+        "house_n": "a",
+        "entrance_n": null,
+        "apartment_n": null
+    },
+    [
+        {
+            "city": "b",
+            "street": "n",
+            "house_n": "n",
+            "entrance_n": null,
+            "apartment_n": null
+        }
+    ]
+]

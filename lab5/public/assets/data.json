@@ -1,0 +1,285 @@
+{
+    "titles": {
+        "pizza": "\u041f\u0456\u0446\u0430",
+        "drink": "\u041d\u0430\u043f\u043e\u0457",
+        "snack": "\u0417\u0430\u043a\u0443\u0441\u043a\u0438",
+        "dessert": "\u0414\u0435\u0441\u0435\u0440\u0442\u0438"
+    },
+    "pizza": {
+        "piz1": {
+            "id": "piz1",
+            "name": "\u041f\u0456\u0446\u0430 \u0413\u0440\u0438\u043b\u044c \u041c\u0456\u043a\u0441",
+            "price": 266,
+            "img": "\/assets\/img\/content\/pizza\/pizza1.png",
+            "weight": 569,
+            "ingredients": [
+                "\u0411\u043e\u043b\u0433\u0430\u0440\u0441\u044c\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0446\u044c",
+                "\u041a\u0443\u0440\u043a\u0430",
+                "\u0421\u043e\u0443\u0441 \u0411\u0430\u0440\u0431\u0435\u043a\u044e",
+                "\u041c\u043e\u0446\u0430\u0440\u0435\u043b\u0430",
+                "\u0426\u0438\u0431\u0443\u043b\u044f",
+                "\u0424\u0440\u0438\u043a\u0430\u0434\u0435\u043b\u044c\u043a\u0438",
+                "\u0411\u0435\u043a\u043e\u043d"
+            ]
+        },
+        "piz2": {
+            "id": "piz2",
+            "name": "\u041f\u0456\u0446\u0430 \u041c\u0430\u0440\u0433\u0430\u0440\u0438\u0442\u0430",
+            "price": 266,
+            "img": "\/assets\/img\/content\/pizza\/pizza2.png",
+            "weight": 552,
+            "ingredients": [
+                "\u041c\u043e\u0446\u0430\u0440\u0435\u043b\u0430(x2)",
+                "\u0421\u043e\u0443\u0441 Rocket`s"
+            ]
+        },
+        "piz3": {
+            "id": "piz3",
+            "name": "\u041f\u0456\u0446\u0430 \u0422\u043e\u043d\u0456 \u041f\u0435\u043f\u0435\u0440\u043e\u043d\u0456",
+            "price": 268,
+            "img": "\/assets\/img\/content\/pizza\/pizza3.png",
+            "weight": 530,
+            "ingredients": [
+                "\u041c\u043e\u0446\u0430\u0440\u0435\u043b\u0430",
+                "\u041f\u0435\u043f\u0435\u0440\u043e\u043d\u0456",
+                "\u0421\u043e\u0443\u0441 Rocket`s"
+            ]
+        },
+        "piz4": {
+            "id": "piz4",
+            "name": "\u041f\u0456\u0446\u0430 \u0411\u0430\u0440\u0431\u0435\u043a\u044e",
+            "price": 273,
+            "img": "\/assets\/img\/content\/pizza\/pizza4.png",
+            "weight": 560,
+            "ingredients": [
+                "\u041a\u0443\u0440\u043a\u0430",
+                "\u0421\u043e\u0443\u0441 \u0411\u0430\u0440\u0431\u0435\u043a\u044e",
+                "\u041c\u043e\u0446\u0430\u0440\u0435\u043b\u0430",
+                "\u0426\u0438\u0431\u0443\u043b\u044f",
+                "\u0413\u0440\u0438\u0431\u0438",
+                "\u0411\u0435\u043a\u043e\u043d"
+            ]
+        },
+        "piz5": {
+            "id": "piz5",
+            "name": "\u041f\u0456\u0446\u0430 \u041a\u0430\u0440\u0431\u043e\u043d\u0430\u0440\u0430",
+            "price": 284,
+            "img": "\/assets\/img\/content\/pizza\/pizza5.png",
+            "weight": 525,
+            "ingredients": [
+                "\u041c\u043e\u0446\u0430\u0440\u0435\u043b\u0430",
+                "\u0421\u043e\u0443\u0441 \u0410\u043b\u044c\u0444\u0440\u0435\u0434\u043e",
+                "\u0426\u0438\u0431\u0443\u043b\u044f",
+                "\u0413\u0440\u0438\u0431\u0438",
+                "\u0428\u0438\u043d\u043a\u0430",
+                "\u0411\u0435\u043a\u043e\u043d"
+            ]
+        },
+        "piz6": {
+            "id": "piz6",
+            "name": "\u041f\u0456\u0446\u0430 \u041a\u0430\u043d\u0442\u0440\u0456",
+            "price": 286,
+            "img": "\/assets\/img\/content\/pizza\/pizza6.png",
+            "weight": 544,
+            "ingredients": [
+                "\u041c\u043e\u0446\u0430\u0440\u0435\u043b\u0430",
+                "\u041e\u0433\u0456\u0440\u043a\u0438 \u043c\u0430\u0440\u0438\u043d\u043e\u0432\u0430\u043d\u0456",
+                "\u0426\u0438\u0431\u0443\u043b\u044f",
+                "\u0421\u043e\u0443\u0441 \u0427\u0430\u0441\u043d\u0438\u043a\u043e\u0432\u0438\u0439",
+                "\u0413\u0440\u0438\u0431\u0438",
+                "\u0428\u0438\u043d\u043a\u0430",
+                "\u0411\u0435\u043a\u043e\u043d"
+            ]
+        },
+        "piz7": {
+            "id": "piz7",
+            "name": "\u041f\u0456\u0446\u0430 \u0422\u0435\u0445\u0430\u0441",
+            "price": 231,
+            "img": "\/assets\/img\/content\/pizza\/pizza7.png",
+            "weight": 550,
+            "ingredients": [
+                "\u0421\u043e\u0443\u0441 \u0411\u0430\u0440\u0431\u0435\u043a\u044e",
+                "\u041c\u043e\u0446\u0430\u0440\u0435\u043b\u0430",
+                "\u0426\u0438\u0431\u0443\u043b\u044f",
+                "\u041a\u043e\u0432\u0431\u0430\u0441\u043a\u0438 \u0431\u0430\u0432\u0430\u0440\u0441\u044c\u043a\u0456",
+                "\u041a\u0443\u043a\u0443\u0440\u0443\u0434\u0437\u0430",
+                "\u0413\u0440\u0438\u0431\u0438"
+            ]
+        },
+        "piz8": {
+            "id": "piz8",
+            "name": "\u041f\u0456\u0446\u0430 \u041c\u0430\u043d\u0433\u0435\u0442\u0442\u0435\u043d",
+            "price": 231,
+            "img": "\/assets\/img\/content\/pizza\/pizza8.png",
+            "weight": 570,
+            "ingredients": [
+                "\u041f\u0435\u043f\u0435\u0440\u043e\u043d\u0456",
+                "\u041c\u043e\u0446\u0430\u0440\u0435\u043b\u0430",
+                "\u0413\u0440\u0438\u0431\u0438",
+                "\u0421\u043e\u0443\u0441 \u0410\u043b\u044c\u0444\u0440\u0435\u0434\u043e",
+                "(\u043f\u043e\u0434\u0432\u0456\u0439\u043d\u0430 \u043f\u043e\u0440\u0446\u0456\u044f \u0433\u0440\u0438\u0431\u0456\u0432) "
+            ]
+        },
+        "piz9": {
+            "id": "piz9",
+            "name": "\u041f\u0456\u0446\u0430 \u041f\u0440\u043e\u0432\u0430\u043d\u0441",
+            "price": 297,
+            "img": "\/assets\/img\/content\/pizza\/pizza9.png",
+            "weight": 545,
+            "ingredients": [
+                "\u041c\u043e\u0446\u0430\u0440\u0435\u043b\u0430",
+                "\u041f\u043e\u043c\u0456\u0434\u043e\u0440\u0438",
+                "\u041f\u0435\u043f\u0435\u0440\u043e\u043d\u0456",
+                "\u0421\u043e\u0443\u0441 \u0410\u043b\u044c\u0444\u0440\u0435\u0434\u043e",
+                "\u0411\u0435\u0440\u0433\u0430\u0434\u0435\u0440 \u0411\u043b\u044e",
+                "\u0428\u0438\u043d\u043a\u0430"
+            ]
+        }
+    },
+    "drink": {
+        "drk1": {
+            "id": "drk1",
+            "name": "BonAqua \u0413\u0430\u0437\u043e\u0432\u0430\u043d\u0430",
+            "price": 38,
+            "img": "\/assets\/img\/content\/drink\/drink1.png",
+            "volume": 0.5
+        },
+        "drk2": {
+            "id": "drk2",
+            "name": "BonAqua \u041d\u0435\u0433\u0430\u0437\u043e\u0432\u0430\u043d\u0430",
+            "price": 38,
+            "img": "\/assets\/img\/content\/drink\/drink1.png",
+            "volume": 0.5
+        },
+        "drk3": {
+            "id": "drk3",
+            "name": "Coca-Cola Zero",
+            "price": 47,
+            "img": "\/assets\/img\/content\/drink\/drink3.png",
+            "volume": 0.5
+        },
+        "drk4": {
+            "id": "drk4",
+            "name": "Coca-Cola",
+            "price": 47,
+            "img": "\/assets\/img\/content\/drink\/drink3.png",
+            "volume": 0.5
+        },
+        "drk5": {
+            "id": "drk5",
+            "name": "Fanta \u0410\u043f\u0435\u043b\u044c\u0441\u0438\u043d",
+            "price": 47,
+            "img": "\/assets\/img\/content\/drink\/drink5.png",
+            "volume": 0.5
+        },
+        "drk6": {
+            "id": "drk6",
+            "name": "Fuzetea \u0437\u0456 \u0441\u043c\u0430\u043a\u043e\u043c \u043b\u0438\u043c\u043e\u043d\u0443",
+            "price": 55,
+            "img": "\/assets\/img\/content\/drink\/drink6.png",
+            "volume": 0.5
+        },
+        "drk7": {
+            "id": "drk7",
+            "name": "Rich \u0410\u043f\u0435\u043b\u044c\u0441\u0438\u043d",
+            "price": 88,
+            "img": "\/assets\/img\/content\/drink\/drink7.png",
+            "volume": 1
+        },
+        "drk8": {
+            "id": "drk8",
+            "name": "Rich \u042f\u0431\u043b\u0443\u043a\u043e",
+            "price": 88,
+            "img": "\/assets\/img\/content\/drink\/drink8.png",
+            "volume": 1
+        },
+        "drk9": {
+            "id": "drk9",
+            "name": "Rich \u0415\u043a\u0437\u043e\u0442\u0438\u043a",
+            "price": 78,
+            "img": "\/assets\/img\/content\/drink\/drink9.png",
+            "volume": 1
+        }
+    },
+    "snack": {
+        "snk1": {
+            "id": "snk1",
+            "name": "\u041a\u0430\u0440\u0442\u043e\u043f\u043b\u044f\u043d\u0456 \u0428\u043c\u0430\u0442\u043e\u0447\u043a\u0438",
+            "price": 89,
+            "img": "\/assets\/img\/content\/snack\/snack1.png",
+            "weight": 190
+        },
+        "snk2": {
+            "id": "snk2",
+            "name": "\u041a\u0430\u0440\u0442\u043e\u043f\u043b\u044f\u043d\u0435 \u0424\u0440\u0456 \u0417 \u041f\u0435\u0447\u0456",
+            "price": 89,
+            "img": "\/assets\/img\/content\/snack\/snack2.png",
+            "weight": 180
+        },
+        "snk3": {
+            "id": "snk3",
+            "name": "\u041a\u0443\u0440\u044f\u0447\u0456 \u0421\u0442\u0440\u0456\u043f\u0441\u0438",
+            "price": 185,
+            "img": "\/assets\/img\/content\/snack\/snack3.png",
+            "weight": 215
+        },
+        "snk4": {
+            "id": "snk4",
+            "name": "\u041a\u0443\u0440\u044f\u0447\u0456 \u041a\u0440\u0438\u043b\u044c\u0446\u044f",
+            "price": 188,
+            "img": "\/assets\/img\/content\/snack\/snack4.png",
+            "weight": 260
+        },
+        "snk5": {
+            "id": "snk5",
+            "name": "\u041f\u0430\u0440\u043c\u0435\u0437\u0430\u043d \u0411\u0430\u0439\u0442\u0441",
+            "price": 99,
+            "img": "\/assets\/img\/content\/snack\/snack5.png",
+            "weight": 160
+        }
+    },
+    "dessert": {
+        "dst1": {
+            "id": "dst1",
+            "name": "\u0412\u0438\u0448\u043d\u0435\u0432\u0456 \u0420\u043e\u043b\u0438",
+            "price": 110,
+            "img": "\/assets\/img\/content\/dessert\/dessert1.png",
+            "weight": 276
+        },
+        "dst2": {
+            "id": "dst2",
+            "name": "\u0410\u0431\u0440\u0438\u043a\u043e\u0441\u043e\u0432\u0456 \u0420\u043e\u043b\u0438",
+            "price": 110,
+            "img": "\/assets\/img\/content\/dessert\/dessert2.png",
+            "weight": 276
+        },
+        "dst3": {
+            "id": "dst3",
+            "name": "\u0428\u043e\u043a\u043e\u043b\u0430\u0434\u043d\u0456 \u0420\u043e\u043b\u0438",
+            "price": 110,
+            "img": "\/assets\/img\/content\/dessert\/dessert3.png",
+            "weight": 229
+        },
+        "dst4": {
+            "id": "dst4",
+            "name": "\u041b\u0430\u0439\u0432 \u041a\u0435\u0439\u043a",
+            "price": 90,
+            "img": "\/assets\/img\/content\/dessert\/dessert4.png",
+            "weight": 96
+        },
+        "dst5": {
+            "id": "dst5",
+            "name": "\u041c\u0430\u0444\u0456\u043d \u041a\u043e\u043a\u043e\u0441\u043e\u0432\u0438\u0439",
+            "price": 60,
+            "img": "\/assets\/img\/content\/dessert\/dessert5.png",
+            "weight": 80
+        },
+        "dst6": {
+            "id": "dst6",
+            "name": "\u0411\u0430\u0439\u0442\u0441\u0438 \u0417 \u041a\u043e\u0440\u0438\u0446\u0435\u044e",
+            "price": 95,
+            "img": "\/assets\/img\/content\/dessert\/dessert6.png",
+            "weight": 166
+        }
+    }
+}
